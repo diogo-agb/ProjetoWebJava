@@ -9,7 +9,7 @@
         <h2>Hello World! Java Server Page</h2>
         <hr>
         <%
-            String nome = "<i>Diogo</i>";
+            String nome = "<i>Diogo</i>"; //Itálico
             int idade = 35;
             boolean inteligente = true; 
             int soma = 10 + 10;
